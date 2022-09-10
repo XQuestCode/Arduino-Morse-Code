@@ -1,7 +1,7 @@
 /* The length of a dot is 1 unit
    The length of a dash is 3 units
    The space between parts of the same letter is 1 unit
-   The space between parts of the same letter is 1 unit
+   The space between letters of the same word is 1 unit
    the space between words is 7 units
    Morse code of my name is:
    A : * -
